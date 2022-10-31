@@ -1,0 +1,31 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "description": "tutarial REST API com CRUD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rente6/node-rest.git"
+  },
+  "keywords": [
+    "rest",
+    "crud"
+  ],
+  "author": "Joao oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rente6/node-rest/issues"
+  },
+  "homepage": "https://github.com/Rente6/node-rest#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
